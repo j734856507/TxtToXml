@@ -1,0 +1,15 @@
+MORPHEE V2						
+Date	Time	Operation	operation_labe	operation_description	wave_label	wave_description	y	R_EC.SPEED	R_EC.TORQUE	S_EC.SPEED	S_EC.TORQUE
+?	?	1	?	?	?	?	y	rpm	N.m	rpm	N.m
+30/8/2018	17:52:46	group1	aaa	qwe	111	hhh	a	12	-0.6	45	-0.6
+30/8/2018	17:52:46	group1	aaa	qwe	111	hhh	a	509	-5.88	545	-5.9
+30/8/2018	17:52:48	group1	aaa	qwe	111	hhh	a	1043	0.47	1045	0.5
+30/8/2018	17:52:49	group1	aaa	qwe	111	hhh	a	1629	17.49	1500	17.5
+30/8/2018	17:52:50	group2	bbb	asd	222	jjj	b	1569	18.65	1500	18.6
+30/8/2018	17:52:51	group2	bbb	asd	222	jjj	b	1657	12.21	1656	12.2
+30/8/2018	17:52:52	group2	bbb	asd	222	jjj	b	3362	13.04	3362	13
+30/8/2018	17:52:53	group2	bbb	asd	222	jjj	b	3757	0.25	3756	0.2
+30/8/2018	17:52:54	group3	ccc	zxc	333	kkk	c	3771	-0.16	3771	-0.2
+30/8/2018	17:52:55	group3	ccc	zxc	333	kkk	c	3781	0.96	3780	1
+30/8/2018	17:52:56	group3	ccc	zxc	333	kkk	c	3770	-1	3769	-1
+30/8/2018	17:52:57	group3	ccc	zxc	333	kkk	c	3788	-0.36	3787	-0.4
